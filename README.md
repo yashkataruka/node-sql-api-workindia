@@ -2,6 +2,9 @@
 
 The repository contains the code for the API, that contains 4 endpoints as specified in the questions statement.
 
+TASK:
+Notes App
+
 ENDPOINTS:
 
 1) /app/user/ that requires the user to send username and password as the body and in return gives us a status of the response. 
